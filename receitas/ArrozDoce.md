@@ -4,7 +4,7 @@ Uma receita da família **Santos**
 
 ---
 
-[Arroz Doce](../imagens/arrozdoce.jpg)
+![Arroz Doce](../imagens/arrozdoce.jpg)
 
 ## Ingredientes
 
